@@ -1,0 +1,14 @@
+{
+    "name": "fast-frontend-startup",
+    "version": "0.0.1",
+    "description": "An npm package to setup a front-end workspace quickly.",
+    "main": "index.js",
+    "scripts": {},
+    "dependencies": {},
+    "keywords": [],
+    "author": "canakildev@gmail.com",
+    "bin": {
+        "myapp": "./index.js"
+    },
+    "license": "MIT"
+  }
